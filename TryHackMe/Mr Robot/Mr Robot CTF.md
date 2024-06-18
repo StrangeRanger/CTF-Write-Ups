@@ -51,11 +51,9 @@ Nmap done: 1 IP address (1 host up) scanned in 205.51 seconds
 
 The results of the scan indicated that the following ports were open and closed:
 
-- Open:
-  - HTTP (80)
-  - HTTPS (443)
-- Closed:
-  - SSH (22)
+- **22/tcp:** SSH (Closed)
+- **80/tcp:** HTTP (Open)
+- **443/tcp:** HTTPS (Open)
 
 Since SSH seemed to be closed, my next step was to identify and investigate the web application running on ports 80 and 443.
 
