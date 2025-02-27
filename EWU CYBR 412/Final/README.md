@@ -6,4 +6,4 @@ This writeup is for the Final of my CYBR 412 class at Eastern Washington Univers
 
 If you have any desire to download the OVA image that I used for this project, you can do so by clicking the link below. The image is untouched and is exactly how I received it.
 
-- [Final OVA Image](https://vms3.hthompson.dev/ova/cybr412-final/CSCD412FinalBoxRevamp.ova)
+- [Final OVA Image](https://vms3.sfo3.cdn.digitaloceanspaces.com/ova/cybr412-final/CSCD412FinalBoxRevamp.ova)
