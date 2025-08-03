@@ -1,7 +1,6 @@
 # CTF Write-Ups
 
 [![Project Tracker](https://img.shields.io/badge/repo%20status-Project%20Tracker-lightgrey)](https://hthompson.dev/project-tracker#project-816935558)
-[![GitHub License](https://img.shields.io/github/license/StrangeRanger/CTF-Write-Ups)](LICENSE)
 
 This repository contains write-ups for various CTF (Capture The Flag) challenges. CTFs are cybersecurity competitions where participants solve security-related puzzles and hacking challenges to find 'flags' and score points. These write-ups document solutions, techniques, and lessons learned from each challenge.
 
@@ -36,3 +35,7 @@ This repository contains write-ups for various CTF (Capture The Flag) challenges
 ## Disclaimer
 
 All content in this repository is for educational purposes only. Do not use any information or techniques described here for unauthorized or malicious activities. Always practice responsible disclosure and follow the rules of any CTF or platform you participate in.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
