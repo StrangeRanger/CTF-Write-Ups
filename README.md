@@ -4,6 +4,18 @@
 
 This repository contains write-ups for various CTF (Capture The Flag) challenges. CTFs are cybersecurity competitions where participants solve security-related puzzles and hacking challenges to find 'flags' and score points. These write-ups document solutions, techniques, and lessons learned from each challenge.
 
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
+- [CTF Write-Ups](#ctf-write-ups)
+  - [Directory Overview](#directory-overview)
+  - [Navigating This Repository](#navigating-this-repository)
+  - [Common Tools \& Techniques](#common-tools--techniques)
+  - [Disclaimer](#disclaimer)
+  - [License](#license)
+
+</details>
+
 ## Directory Overview
 
 - [EWU CYBR 412](EWU%20CYBR%20412)
